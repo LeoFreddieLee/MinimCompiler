@@ -1,0 +1,16 @@
+bool x;
+void main(){
+bool a;
+a = true;
+if (a) {
+    int c;
+    c = 3;
+    x = true;
+    disp << a;
+    if(x){
+      int c;
+      c = 2;
+      disp << c;
+    }
+  }
+}
